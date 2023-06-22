@@ -1,11 +1,9 @@
-import React from 'react';
-import { Counter } from '../../components/Counter';
+import React from 'react'
 
 const MainPage = () => {
     return (
         <div>
             Main Page
-            <Counter />
         </div>
     )
 };
